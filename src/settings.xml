@@ -19,12 +19,12 @@
 		<variable>yandex_paymode</variable>
 		<name>Сценарий оплаты</name>
 		<options>
-			<name>Выбор оплаты на стороне магазина</name>
-			<value>site</value>
-		</options>
-		<options>
 			<name>Выбор оплаты на стороне сервиса Яндекс.Касса</name>
 			<value>kassa</value>
+		</options>
+		<options>
+			<name>Выбор оплаты на стороне магазина</name>
+			<value>site</value>
 		</options>
 	</settings>
 	<settings>
